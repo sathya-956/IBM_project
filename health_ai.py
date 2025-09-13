@@ -138,3 +138,4 @@ with gr.Blocks() as app:
     # Launch App
     # -----------------------------
     app.launch(share=True)
+    app.launch(debug=True)
